@@ -1,0 +1,7 @@
+compile_commands.json
+vmlinux.h
+
+build/
+.cache/
+.jj/
+.vscode/
